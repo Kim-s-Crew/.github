@@ -1,13 +1,55 @@
-## Hi there 👋
+# 반갑습니다, Kim's Crew 입니다 👋
 
-<!--
+![스파게티 코딩 클럽을 재치있게 그림으로 표현한 그래픽. 개발자들이 컴퓨터를 펼치고 스파게티 주위에 둘러앉아 있다.](https://github.com/Kim-s-Crew/SpaghettiCodingClub-BE/assets/129070298/559a0e68-0c13-49d0-b5be-2f0ba920483b)
 
-**Here are some ideas to get you started:**
+## 🍝 SpaghettiCodingClub
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[스파게티코딩클럽 구경하러 가기](https://www.spaghetticoding.shop)
 
+수강생과 매니저들의 효율적인 업무진행을 위한 페이지 <br>
+개발기간 : 2024.03 ~ 2024.06 (`약 16주`)
+
+### 시작한 계기
+
+SpaghettiCodingClub은 내일배움캠프를 수료한 후 매니저로 근무하면서 느낀 불편함을 해결하고자 시작되었습니다. 많은 수의 수강생을 효율적으로 관리하기 위해 내일배움캠프 출신의 개발자 네 명이 모였습니다.
+
+### 프로젝트 의도
+
+내일배움캠프에서 사용하는 백오피스를 개선하여 수강생 관리를 더 편리하게 하고자 합니다.
+
+## 👥 Kim's Crew
+
+[Kim's Crew 노션 구경하러 가기](https://kim-is-the-best.notion.site/5d6d3444263947e6a2cd38c60d01decd)
+
+### 팀 문화
+
+1. **솔직함**: Kim's crew는 성공과 실패를 막론하고 모든 과정에서 솔직한 피드백을 주고받습니다. 이는 팀원 간의 신뢰를 강화하고, 문제 해결에 있어 투명성과 효율성을 높입니다. 우리는 잘 진행되고 있는 점뿐만 아니라, 개선이 필요한 부분에 대해서도 적극적으로 의견을 나누며, 이를 통해 지속적인 발전을 도모합니다.
+2. **창의성**: Kim's crew는 새로운 아이디어와 혁신적인 접근을 장려합니다. 우리는 다양한 의견을 개방적으로 받아들이며, 이를 실현하기 위한 열정과 끈기를 중요시합니다. 창의적인 해결책을 찾기 위해 실패를 두려워하지 않으며, 도전적인 과제를 통해 성장합니다.
+3. **호기심**: Kim's crew는 항상 배움에 대한 열정을 가지고 있습니다. 우리는 빠르게 배우고, 팀원들의 아이디어에 깊은 관심을 기울이며, 새로운 지식을 탐구하는 데 주저하지 않습니다. 아직 익숙하지 않은 분야에 대해서는 겸손한 태도로 접근하며, 이를 통해 더 넓은 시야와 깊은 이해를 추구합니다.
+
+### 개발 문화
+
+1. **자율성과 협력**: Kim's crew는 각자의 자율성을 존중하는 동시에, 서로의 경험과 도전을 공유하는 문화를 지향합니다. 이를 통해 우리는 서로의 관점을 이해하고 신뢰를 쌓으며, 자연스럽게 새로운 지식과 통찰을 얻습니다.
+
+2. **협업과 투명성**: Kim's crew는 팀원 모두가 공동 창작자로서 참여하는 문화를 추구합니다. 자율성을 실현하기 위해서는 정보의 투명한 공유가 필수적입니다. 우리는 모든 팀원이 자유롭게 의견을 나누고 적극적으로 참여할 수 있는 환경을 조성합니다.
+
+3. **공동 성장**: Kim's crew는 서로의 성장을 도모하며, 긍정적인 영향을 주는 팀원을 적극적으로 지원합니다. 반대로, 다른 사람에게 무관심한 팀원은 우리와 어울리지 않습니다. 함께 협력하여 나아갈 때, 개인과 팀 모두가 더 빠르고 지속 가능한 성장을 이룰 수 있다고 믿습니다.
+
+### 팀 목표
+
+> Kim's crew는 지속 가능한 성과와 혁신을 통해 장기적인 성공을 추구하며, 팀원간의 협력과 소통을 바탕으로 사용자 중심의 가치를 제공합니다. 우리는 끊임없는 학습과 성장을 통해 변화하는 환경에 유연하게 대응합니다.
+
+### 멤버 소개
+
+| 팀원       | GitHub                          |
+| ---------- | ------------------------------- |
+| 김은채(BE) | https://github.com/EUNCHAEv1006 |
+| 김대영(BE) | https://github.com/kdy9960      |
+| 김래준(FE) | https://github.com/Laejun-Kim   |
+| 김미희(FE) | https://github.com/mi-hee-k     |
+
+## 📞 조직에 합류하고 싶어요!
+
+Kim's Crew 는 열정있고 소통 잘되는 분이라면 누구라도 환영합니다. <br>
+아래 메일 주소로 연락 주시면 회신 드리겠습니다. <br>
+<strong>Contact : kimscrew.spc@gmail.com</strong>
